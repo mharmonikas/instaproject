@@ -1,3 +1,3 @@
-# instaproject
+# Instaproject
 
-Instagram like site built in laravel.
+Instagram like project built in laravel.
